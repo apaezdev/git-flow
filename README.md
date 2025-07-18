@@ -1,5 +1,7 @@
 # Git Flow
 
+Andres Paez
+
 Un proyecto Node.js moderno para gestión de flujos de trabajo Git.
 
 ## 📋 Descripción
