@@ -2,7 +2,7 @@
 
 Andres Paez
 Fernando Vaca haciendo el push en la rama 
-
+Cristian Altamirano LLEgueXD
 Un proyecto Node.js moderno para gestión de flujos de trabajo Git.
 
 ## 📋 Descripción
